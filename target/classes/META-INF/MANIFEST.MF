@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Day1.Demo2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ibagwan
+Implementation-Vendor-Id: Day1
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Day1.Demo2
+Created-By: Maven Integration for Eclipse
+
